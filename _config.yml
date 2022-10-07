@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Wyatt Nechtman's Website
+title: Wyatt Nechtman
 
 # Your name to show in the footer
 author: Wyatt Nechtman
@@ -20,10 +20,13 @@ author: Wyatt Nechtman
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Home: "index"
+  About Me:
+    - Overview: "aboutme"
+    - Resume: "https://wnechtman.github.io/Nechtman_Wyatt_Resume.pdf"
+  # Resources:
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
 ################
